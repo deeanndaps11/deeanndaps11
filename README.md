@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on a school management system project
 - 
-- 📫 How to reach me dapaahannette@gmail.com
+- 📫 How to reach me dapaahannette@gmail.com    telegram : @pleasedonttextme
 - 
 
 <!---
